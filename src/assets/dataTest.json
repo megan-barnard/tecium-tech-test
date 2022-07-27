@@ -1,0 +1,739 @@
+{
+  "content":[
+    {
+      "_badge": {
+        "name": "Consectetur adipiscing elit",
+        "value": "94444.555555",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Lorem ipsum dolor sit amet (Avg)",
+        "value": "3.37",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Current Charged (Max)",
+        "value": "4632342",
+        "unit": "miles/hour" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Power Charged (Max)",
+        "value": "251.41",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Pellentesque vel",
+        "value": "0.6",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "suscipitutvitaelectus",
+        "value": "252.11",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hendrerit-Condimentum",
+        "value": "133.15",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "476.6",
+        "unit": "mph" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "500",
+        "unit": "L" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "33",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "0.555555",
+        "unit": "KM" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "34",
+        "unit": "S" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Vivamus dapibus (et)",
+        "value": "777",
+        "unit": "N" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "0.2",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "99",
+        "unit": "Lk" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "1",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus (Dot)",
+        "value": "0",
+        "unit": "R" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Consectetur adipiscing elit",
+        "value": "94444.555555",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Lorem ipsum dolor sit amet (Avg)",
+        "value": "3.37",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Current Charged (Max)",
+        "value": "4632342",
+        "unit": "miles/hour" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Power Charged (Max)",
+        "value": "251.41",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Pellentesque vel",
+        "value": "0.6",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "suscipitutvitaelectus",
+        "value": "252.11",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hendrerit-Condimentum",
+        "value": "133.15",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "476.6",
+        "unit": "mph" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "500",
+        "unit": "L" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "33",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "0.555555",
+        "unit": "KM" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "34",
+        "unit": "S" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Vivamus dapibus (et)",
+        "value": "777",
+        "unit": "N" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "0.2",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "99",
+        "unit": "Lk" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "1",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus (Dot)",
+        "value": "0",
+        "unit": "R" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Consectetur adipiscing elit",
+        "value": "94444.555555",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Lorem ipsum dolor sit amet (Avg)",
+        "value": "3.37",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Current Charged (Max)",
+        "value": "4632342",
+        "unit": "miles/hour" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Power Charged (Max)",
+        "value": "251.41",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Pellentesque vel",
+        "value": "0.6",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "suscipitutvitaelectus",
+        "value": "252.11",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hendrerit-Condimentum",
+        "value": "133.15",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "476.6",
+        "unit": "mph" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "500",
+        "unit": "L" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "33",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "0.555555",
+        "unit": "KM" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "34",
+        "unit": "S" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Vivamus dapibus (et)",
+        "value": "777",
+        "unit": "N" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "0.2",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "99",
+        "unit": "Lk" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "1",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus (Dot)",
+        "value": "0",
+        "unit": "R" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Consectetur adipiscing elit",
+        "value": "94444.555555",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Lorem ipsum dolor sit amet (Avg)",
+        "value": "3.37",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Current Charged (Max)",
+        "value": "4632342",
+        "unit": "miles/hour" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Power Charged (Max)",
+        "value": "251.41",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Pellentesque vel",
+        "value": "0.6",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "suscipitutvitaelectus",
+        "value": "252.11",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hendrerit-Condimentum",
+        "value": "133.15",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "476.6",
+        "unit": "mph" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "500",
+        "unit": "L" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "33",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "0.555555",
+        "unit": "KM" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "34",
+        "unit": "S" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Vivamus dapibus (et)",
+        "value": "777",
+        "unit": "N" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "0.2",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "99",
+        "unit": "Lk" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "1",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus (Dot)",
+        "value": "0",
+        "unit": "R" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Consectetur adipiscing elit",
+        "value": "94444.555555",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Lorem ipsum dolor sit amet (Avg)",
+        "value": "3.37",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Current Charged (Max)",
+        "value": "4632342",
+        "unit": "miles/hour" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Power Charged (Max)",
+        "value": "251.41",
+        "unit": "kW" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Pellentesque vel",
+        "value": "0.6",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "suscipitutvitaelectus",
+        "value": "252.11",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hendrerit-Condimentum",
+        "value": "133.15",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "476.6",
+        "unit": "mph" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "500",
+        "unit": "L" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "33",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "0.555555",
+        "unit": "KM" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Hippopotomonstrosesquippedaliophobia",
+        "value": "34",
+        "unit": "S" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Vivamus dapibus (et)",
+        "value": "777",
+        "unit": "N" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus",
+        "value": "0.2",
+        "unit": "kWh" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Fusce porttitor ante",
+        "value": "99",
+        "unit": "Lk" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Nunc ipsum augue",
+        "value": "476.6",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Donec sodales",
+        "value": "1",
+        "unit": "A" 
+      }
+    },
+    {
+      "_badge": {
+        "name": "Feugiat Metus (Dot)",
+        "value": "0",
+        "unit": "R" 
+      }
+    }
+  ]
+}
