@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import Badge from "./Badge";
-import data1 from "../../assets/dataTest.json";
+import data1 from "../../assets/dataStruct.json";
 import data2 from "../../assets/dataTest.json";
 import Pagination from "./Pagination";
 import { Container, Grid } from "@mui/material";
